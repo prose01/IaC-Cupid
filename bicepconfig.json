@@ -1,0 +1,16 @@
+{
+    "cloud": {
+      "credentialPrecedence": [
+        "AzureCLI",
+        "AzurePowerShell"
+      ]
+    },
+    "moduleAliases": {
+      "br": {
+        "modules": {
+          "registry": "iacmoduleregistry.azurecr.io",
+          "modulePath": "bicep/modules"
+        }
+      }
+    }
+}
